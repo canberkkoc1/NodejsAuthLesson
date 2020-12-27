@@ -1,7 +1,6 @@
 const mongoose = require("mongoose");
 
-const MONGOURI =
-  "mongodb+srv://username:passs@nodecon.in62z.mongodb.net/databasename?retryWrites=true&w=majority";
+const MONGOURI = "your-mongo-db-url";
 
 const initiateMongoServer = async () => {
   try {
