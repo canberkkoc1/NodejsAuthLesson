@@ -12,6 +12,6 @@ I am learning NodeJs and this project first lesson.
 
 []  Create Log out operations
 
-[]  Connec server with VueJs
+[]  Connection server with VueJs
 
 
